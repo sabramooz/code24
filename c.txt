@@ -1,4 +1,4 @@
 new feature
 bug fix
 
-fogotten line 2
+fogotten line 4
